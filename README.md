@@ -10,6 +10,4 @@ Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles
 
 ► Check out our [**Pinguino Lecture Series**](http://boccelliengineering.altervista.org/PLS_website/index.html) - a yearly, multidisciplinary and revolutionary symposium where we share our knowledge and research with anyone in the audience! *The 4th lecture series date and place (probably online) to be scheduled soon!*
 
-If you would like to join any of my ongoing projects, send me a suggestion for improvements or a comment, drop me a line at:
-
-`kamilazdybal at gmail dot com`
+If you would like to join any of my ongoing projects, send me a suggestion for improvements or a comment, drop me a line at: `kamilazdybal at gmail dot com`.
