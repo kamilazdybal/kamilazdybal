@@ -11,5 +11,3 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 ► I develop [**Science Docs**](https://kamilazdybal.github.io/science-docs/) - a site with science tutorials and articles, study notes and coding projects for curious minds!
 
 ► Check out our [**Pinguino Lecture Series**](http://boccelliengineering.altervista.org/PLS_website/index.html) - a yearly, multidisciplinary and revolutionary symposium where we share our knowledge and research with anyone in the audience! *The 4th lecture series date and place (probably online) to be scheduled soon!*
-
-<h4><span class="fa fa-twitter"></span><a href="https://twitter.com/kamilazdybal" target="_blank">@kamilazdybal</a></h4>
