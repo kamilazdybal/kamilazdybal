@@ -2,7 +2,7 @@
 print('Howdy, Universe!')
 ```
 
-I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. In my research I work on reduced-order modeling of turbulent reactive flows.
+Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. In my research I work on reduced-order modeling of turbulent reactive flows.
 
 > My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
 
