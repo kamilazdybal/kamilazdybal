@@ -10,4 +10,4 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ► I develop [**Science Docs**](https://kamilazdybal.github.io/science-docs/) - a site with science tutorials and articles, study notes and coding projects for curious minds!
 
-► Check out our [**Pinguino Lecture Series**](http://boccelliengineering.altervista.org/PLS_website/index.html) - a yearly, multidisciplinary and revolutionary symposium where we share our knowledge and research with anyone in the audience! *The date and place for the 4th lecture series will be scheduled soon!*
+► Check out our [**Pinguino Lecture Series**](http://boccelliengineering.altervista.org/PLS_website/index.html) - a yearly and multidisciplinary symposium where we share our knowledge and research with anyone in the audience! *The date and place for the 4th lecture series will be scheduled soon!*
