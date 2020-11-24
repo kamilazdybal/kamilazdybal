@@ -14,4 +14,4 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## News:
 
-► Check out our recent [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! [PCAfold](https://pcafold.readthedocs.io/) is an open-source Python library for generating, analyzing and improving empirical low-dimensional manifolds obtained *via* Principal Component Analysis.
+► Check out our recent [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! [PCAfold](https://pcafold.readthedocs.io/) is an open-source Python library for generating, analyzing and improving low-dimensional manifolds obtained *via* Principal Component Analysis.
