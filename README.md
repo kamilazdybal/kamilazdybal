@@ -20,7 +20,6 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ### My 2020 music highlights
 
-```diff
 + Marvin Pontiac - Small Car
 + Pharoah Sanders - Harvest Time
 + John Lurie - Girls
@@ -33,4 +32,3 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 + Jan Garbarek - Brother Wind March
 + Ali Farka Touré & Toumani Diabaté - Ruby
 + Anouar Brahem - The Mozdok's Train
-```
