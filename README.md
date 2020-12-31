@@ -18,7 +18,8 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ------
 
-### My 2020 music highlights
+```
+🎧 My 2020 music highlights
 
 1. Marvin Pontiac - Small Car
 2. Pharoah Sanders - Harvest Time
@@ -32,3 +33,4 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 10. Jan Garbarek - Brother Wind March
 11. Ali Farka Touré & Toumani Diabaté - Ruby
 12. Anouar Brahem - The Mozdok's Train
+```
