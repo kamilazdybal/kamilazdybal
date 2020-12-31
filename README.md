@@ -20,15 +20,15 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ### My 2020 music highlights
 
-+ Marvin Pontiac - Small Car
-+ Pharoah Sanders - Harvest Time
-+ John Lurie - Girls
-+ The Lounge Lizards - Bob the Bob
-+ Alice Coltrane - Turiya & Ramakrishna
-+ Charlie Haden & Pat Metheny - Waltz for Ruth
-+ Chuck Mangione - Children of Sanchez
-+ Quincy Jones - What's Going On
-+ John Surman - Wayfarers All
-+ Jan Garbarek - Brother Wind March
-+ Ali Farka Touré & Toumani Diabaté - Ruby
-+ Anouar Brahem - The Mozdok's Train
+1. Marvin Pontiac - Small Car
+2. Pharoah Sanders - Harvest Time
+3. John Lurie - Girls
+4. The Lounge Lizards - Bob the Bob
+5. Alice Coltrane - Turiya & Ramakrishna
+6. Charlie Haden & Pat Metheny - Waltz for Ruth
+7. Chuck Mangione - Children of Sanchez
+8. Quincy Jones - What's Going On
+9. John Surman - Wayfarers All
+10. Jan Garbarek - Brother Wind March
+11. Ali Farka Touré & Toumani Diabaté - Ruby
+12. Anouar Brahem - The Mozdok's Train
