@@ -18,9 +18,15 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ------
 
+### My 2020 music highlights
+
 ```diff
-+ ### 2020 music highlights
++ Pharoah Sanders - Harvest Time
++ John Lurie - Girls
++ Alice Coltrane - Turiya & Ramakrishna
 + John Surman - Wayfarers All
 + Anouar Brahem - The Mozdok's Train
 + Chuck Mangione - Children of Sanchez
++ Jan Garbarek - Brother Wind March
++ Ali Farka Touré & Toumani Diabaté - Ruby
 ```
