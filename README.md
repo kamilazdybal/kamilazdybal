@@ -14,6 +14,8 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## News:
 
+► Check out the beta version of [**multipy**](https://multipy-lib.readthedocs.io/), our educational Python library intended to support your learning of multicomponent mass transfer!
+
 ► Stay tuned for our book chapter [*Advancing Reacting Flow Simulations with Data-Driven Models*](https://www.datadrivenfluidmechanics.com/download/book/DataDrivenFluidMechanicsBook_TableofContent.pdf) by me & co-workers!
 
 ► Check out our recent [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! [**PCAfold**](https://pcafold.readthedocs.io/) is an open-source Python library for generating, analyzing and improving low-dimensional manifolds obtained *via* Principal Component Analysis.
