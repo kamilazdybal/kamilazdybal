@@ -14,6 +14,8 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## News:
 
+► Stay tuned for our book chapter [*Reduced-order modeling of reacting flows using data-driven approaches*](https://github.com/kamilazdybal/ROM-of-reacting-flows-Springer) by me & co-workers!
+
 ► Check out the beta version of [**multipy**](https://multipy-lib.readthedocs.io/), our educational Python library intended to support your learning of multicomponent mass transfer!
 
 ► Stay tuned for our book chapter [*Advancing Reacting Flow Simulations with Data-Driven Models*](https://www.datadrivenfluidmechanics.com/download/book/DataDrivenFluidMechanicsBook_TableofContent.pdf) by me & co-workers!
