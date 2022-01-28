@@ -4,7 +4,7 @@ print('Howdy, Universe!')
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kamila-zdybal/">
-    <p align="center"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></p>
+    <p align="center"><img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></p>
   </a>
   <a href="https://twitter.com/kamilazdybal">
     <p align="center"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></p>
