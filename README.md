@@ -9,6 +9,9 @@ print('Howdy, Universe!')
   <a href="https://scholar.google.com/citations?user=EI_up1gAAAAJ&hl=en&oi=ao">
     <img src="https://img.shields.io/badge/GoogleScholar-critical?style=for-the-badge&logo=googlescholar&logoColor=white" alt="GoogleScholar Badge"/>
   </a>
+  <a href="https://www.researchgate.net/profile/Kamila-Zdybal">
+    <img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/>
+  </a>
   <a href="https://twitter.com/kamilazdybal">
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
