@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/ResearchGate-green?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/>
 </a>
 <a href="https://orcid.org/0000-0002-3952-3824">
-<img src="https://img.shields.io/badge/orcid-green?style=for-the-badge&logo=orcid&logoColor=white alt="ResearchGate Badge"/>
+  <img src="https://img.shields.io/badge/orcid-green?style=for-the-badge&logo=orcid&logoColor=white alt="ORCID Badge"/>
 </a>
 <a href="https://twitter.com/kamilazdybal">
   <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
