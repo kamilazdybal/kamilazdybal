@@ -2,6 +2,15 @@
 print('Howdy, Universe!')
 ```
 
+<div id="badges">
+  <a href="https://www.linkedin.com/in/kamila-zdybal/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/kamilazdybal">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
 Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. In my research I work on reduced-order modeling of turbulent reactive flows. My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
 
 If you would like to join any of my ongoing projects, send me a suggestion for improvements or a comment, drop me a line at: `kamilazdybal at gmail dot com`.
