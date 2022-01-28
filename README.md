@@ -4,12 +4,12 @@ print('Howdy, Universe!')
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/kamila-zdybal/">
-    <p align="center"><img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/></p>
+    <img src="https://img.shields.io/badge/LinkedIn-9cf?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://twitter.com/kamilazdybal">
-    <p align="center"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></p>
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
-  <p align="center"><img src="https://komarev.com/ghpvc/?username=kamilazdybal&style=flat-square&color=blue" alt="Views"/></p>
+  <img src="https://komarev.com/ghpvc/?username=kamilazdybal&style=flat-square&color=blue" alt="Views"/>
 </div>
 
 Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. In my research I work on reduced-order modeling of turbulent reactive flows. My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
