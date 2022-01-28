@@ -9,6 +9,7 @@ print('Howdy, Universe!')
   <a href="https://twitter.com/kamilazdybal">
     <p align="center"><img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/></p>
   </a>
+  <p align="center"><img src="https://komarev.com/ghpvc/?username=kamilazdybal&style=flat-square&color=blue" alt="Views"/></p>
 </div>
 
 Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. In my research I work on reduced-order modeling of turbulent reactive flows. My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
