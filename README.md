@@ -14,9 +14,7 @@
   <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 
-```python
-print('Howdy, Universe!')
-```
+## `print('Howdy, Universe!')`
 
 Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. In my research I work on reduced-order modeling of turbulent reactive flows. My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
 
