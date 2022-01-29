@@ -40,4 +40,4 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ------
 
-<img src="https://komarev.com/ghpvc/?username=kamilazdybal&style=for-the-badge&color=blue" alt="Views"/>
+<img src="https://komarev.com/ghpvc/?username=kamilazdybal&style=for-the-badge&color=gray" alt="Views"/>
