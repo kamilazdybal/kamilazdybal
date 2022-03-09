@@ -28,6 +28,8 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## News:
 
+► Stay tuned for my seminar talk [*Cost function for low-dimensional manifold topology optimization*](https://www.vki.ac.be/index.php/vki-seminars) at The von Karman Institute for Fluid Dynamics!
+
 ► Stay tuned for our book chapter [*Reduced-order modeling of reacting flows using data-driven approaches*](https://github.com/kamilazdybal/ROM-of-reacting-flows-Springer) by me & co-workers!
 
 ► Check out the beta version of [**multipy**](https://multipy-lib.readthedocs.io/), our educational Python library intended to support your learning of multicomponent mass transfer!
