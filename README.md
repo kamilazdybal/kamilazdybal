@@ -13,6 +13,10 @@
 <a href="https://twitter.com/kamilazdybal">
   <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
+<a href="https://github.com/kamilazdybal/">
+  <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+</a>
+
 
 ## `print('Howdy, Universe!')`
 
