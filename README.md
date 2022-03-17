@@ -28,7 +28,7 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## News:
 
-► Stay tuned for my seminar talk [*Cost function for low-dimensional manifold topology optimization*](https://www.vki.ac.be/index.php/vki-seminars) at The von Karman Institute for Fluid Dynamics!
+► Check out my seminar talk [*Cost function for low-dimensional manifold topology optimization*](https://www.vki.ac.be/index.php/vki-seminars) at The von Karman Institute for Fluid Dynamics!
 
 ► Stay tuned for our book chapter [*Reduced-order modeling of reacting flows using data-driven approaches*](https://github.com/kamilazdybal/ROM-of-reacting-flows-Springer) by me & co-workers!
 
