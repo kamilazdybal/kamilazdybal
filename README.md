@@ -22,7 +22,7 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## Ongoing projects:
 
-► Check out the [🎓 **PyhD repository**](ttps://github.com/kamilazdybal/PyhD) for a bunch of Python scripts helpful for your PhD adventure!
+► Check out the [🎓 **PyhD repository**](https://github.com/kamilazdybal/PyhD) for a bunch of Python scripts helpful for your PhD adventure!
 
 ► I develop [**Science Docs**](https://kamilazdybal.github.io) - a site with science tutorials and articles, study notes and coding projects for curious minds!
 
