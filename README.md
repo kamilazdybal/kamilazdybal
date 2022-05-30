@@ -42,4 +42,4 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ------
 
-$\nabla \cdot V = 0$
+Keep calm and $\frac{\partial \rho Y_i}{\partial t} = - \nabla \cdot (\rho Y_i \mathbf{v}) - \nabla \cdot \mathbf{j}_i + \omega_i$!
