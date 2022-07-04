@@ -30,6 +30,8 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## News:
 
+► Check out the preprint to our latest article [*Local manifold learning and its link to domain-based physics knowledge*](https://arxiv.org/abs/2207.00275)!
+
 ► Check out my seminar talk [*Cost function for low-dimensional manifold topology optimization*](https://www.vki.ac.be/index.php/vki-seminars) at The von Karman Institute for Fluid Dynamics!
 
 ► Stay tuned for our book chapter [*Reduced-order modeling of reacting flows using data-driven approaches*](https://github.com/kamilazdybal/ROM-of-reacting-flows-Springer) by me & co-workers!
@@ -38,7 +40,7 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ► Stay tuned for our book chapter [*Advancing Reacting Flow Simulations with Data-Driven Models*](https://www.datadrivenfluidmechanics.com/download/book/DataDrivenFluidMechanicsBook_TableofContent.pdf) by me & co-workers!
 
-► Check out our recent [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! [**PCAfold**](https://pcafold.readthedocs.io/) is an open-source Python library for generating, analyzing and improving low-dimensional manifolds obtained *via* Principal Component Analysis.
+► Check out our [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! [**PCAfold**](https://pcafold.readthedocs.io/) is an open-source Python library for generating, analyzing and improving low-dimensional manifolds obtained *via* Principal Component Analysis.
 
 ------
 
