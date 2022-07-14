@@ -30,9 +30,9 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## News:
 
-► Check out the preprint to our latest article [*Local manifold learning and its link to domain-based physics knowledge*](https://arxiv.org/abs/2207.00275)!
+► Check out my first research paper [*Manifold-informed state vector subset for reduced-order modeling*](https://authors.elsevier.com/a/1fPcv5UKsGBnCP), accepted in the Proceedings of the Combustion Institute journal!
 
-► Stay tuned for my first research paper [*Manifold-informed state vector subset for reduced-order modeling*](https://github.com/kamilazdybal/manifold-informed-state-vector-subset), accepted in the Proceedings of the Combustion Institute journal!
+► Check out the preprint to our latest article [*Local manifold learning and its link to domain-based physics knowledge*](https://arxiv.org/abs/2207.00275)!
 
 ► Check out my seminar talk [*Cost function for low-dimensional manifold topology optimization*](https://www.vki.ac.be/index.php/vki-seminars) at The von Karman Institute for Fluid Dynamics! Our [associated paper](https://github.com/kamilazdybal/cost-function-manifold-assessment) is currently in peer review.
 
