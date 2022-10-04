@@ -34,7 +34,7 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ► I'm proud to share our article [*Cost function for low-dimensional manifold topology assessment*](https://www.nature.com/articles/s41598-022-18655-1) published in Scientific Reports!
 
-► Check out my first research paper [*Manifold-informed state vector subset for reduced-order modeling*](https://authors.elsevier.com/a/1fPcv5UKsGBnCP), accepted in the Proceedings of the Combustion Institute journal!
+► Check out my first research paper [*Manifold-informed state vector subset for reduced-order modeling*](https://www.researchgate.net/publication/361985981_Manifold-informed_state_vector_subset_for_reduced-order_modeling), accepted in the Proceedings of the Combustion Institute journal!
 
 ► Check out the preprint to our latest article [*Local manifold learning and its link to domain-based physics knowledge*](https://arxiv.org/abs/2207.00275)!
 
