@@ -30,6 +30,8 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## News:
 
+► Check out our open-access book chapter [*Reduced-order modeling of reacting flows using data-driven approaches*]([https://github.com/kamilazdybal/ROM-of-reacting-flows-Springer](https://link.springer.com/chapter/10.1007/978-3-031-16248-0_9)) by me & co-workers!
+
 ► Check out the paper [*Reduced-order modeling of supersonic fuel–air mixing in a multi-strut injection scramjet engine using machine learning techniques*](https://www.sciencedirect.com/science/article/pii/S0094576522006208) that I contributed to.
 
 ► Check out the preprint to our book chapter [*Advancing Reacting Flow Simulations with Data-Driven Models*](https://arxiv.org/abs/2209.02051) by me & co-workers!
@@ -41,8 +43,6 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 ► Check out the preprint to our latest article [*Local manifold learning and its link to domain-based physics knowledge*](https://arxiv.org/abs/2207.00275)!
 
 ► Check out my seminar talk [*Cost function for low-dimensional manifold topology optimization*](https://www.vki.ac.be/index.php/vki-seminars) at The von Karman Institute for Fluid Dynamics!
-
-► Stay tuned for our book chapter [*Reduced-order modeling of reacting flows using data-driven approaches*](https://github.com/kamilazdybal/ROM-of-reacting-flows-Springer) by me & co-workers!
 
 ► Check out the beta version of [**multipy**](https://multipy-lib.readthedocs.io/), our educational Python library intended to support your learning of multicomponent mass transfer!
 
