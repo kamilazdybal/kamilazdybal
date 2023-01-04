@@ -30,7 +30,7 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## News:
 
-► Check out our open-access book chapter [*Reduced-order modeling of reacting flows using data-driven approaches*]([https://github.com/kamilazdybal/ROM-of-reacting-flows-Springer](https://link.springer.com/chapter/10.1007/978-3-031-16248-0_9) by me & co-workers!
+► Check out our open-access book chapter [*Reduced-order modeling of reacting flows using data-driven approaches*](https://link.springer.com/chapter/10.1007/978-3-031-16248-0_9) by me & co-workers!
 
 ► Check out the paper [*Reduced-order modeling of supersonic fuel–air mixing in a multi-strut injection scramjet engine using machine learning techniques*](https://www.sciencedirect.com/science/article/pii/S0094576522006208) that I contributed to.
 
