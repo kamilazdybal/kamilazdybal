@@ -34,7 +34,7 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ► Check out the paper [*Reduced-order modeling of supersonic fuel–air mixing in a multi-strut injection scramjet engine using machine learning techniques*](https://www.sciencedirect.com/science/article/pii/S0094576522006208) that I contributed to.
 
-► Check out the preprint to our book chapter [*Advancing Reacting Flow Simulations with Data-Driven Models*](https://arxiv.org/abs/2209.02051) by me & co-workers!
+► Check out the preprint to our book chapter [*Advancing Reacting Flow Simulations with Data-Driven Models*](https://arxiv.org/abs/2209.02051) by me & co-workers! The entire textbook that results from the VKI Lecture Series is [available here](https://www.cambridge.org/core/books/data-driven-fluid-mechanics/0327A1A43F7C67EE88BB13743FD9DC8D).
 
 ► I'm proud to share our article [*Cost function for low-dimensional manifold topology assessment*](https://www.nature.com/articles/s41598-022-18655-1) published in Scientific Reports!
 
