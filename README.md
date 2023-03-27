@@ -30,7 +30,7 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## News:
 
-► Check out our latest paper [*Local manifold learning and its link to domain-based physics knowledge*](https://www.sciencedirect.com/science/article/pii/S0094576522006208](https://doi.org/10.1016/j.jaecs.2023.100131)!
+► Check out our latest paper [*Local manifold learning and its link to domain-based physics knowledge*](https://doi.org/10.1016/j.jaecs.2023.100131)!
 
 ► Check out our open-access book chapter [*Reduced-order modeling of reacting flows using data-driven approaches*](https://link.springer.com/chapter/10.1007/978-3-031-16248-0_9) by me & co-workers!
 
