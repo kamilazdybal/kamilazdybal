@@ -42,11 +42,9 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ► Check out the preprint to our book chapter [*Advancing Reacting Flow Simulations with Data-Driven Models*](https://arxiv.org/abs/2209.02051) by me & co-workers! The entire textbook results from the [VKI Lecture Series](https://www.cambridge.org/core/books/data-driven-fluid-mechanics/0327A1A43F7C67EE88BB13743FD9DC8D).
 
-► I'm proud to share our article [*Cost function for low-dimensional manifold topology assessment*](https://www.nature.com/articles/s41598-022-18655-1) published in Scientific Reports!
+► I'm proud to share our article [*Cost function for low-dimensional manifold topology assessment*](https://www.nature.com/articles/s41598-022-18655-1) published in Scientific Reports! Check out the associated seminar talk [*Cost function for low-dimensional manifold topology optimization*](https://www.vki.ac.be/index.php/vki-seminars) at The von Karman Institute for Fluid Dynamics!
 
 ► Check out my first research paper [*Manifold-informed state vector subset for reduced-order modeling*](https://www.researchgate.net/publication/361985981_Manifold-informed_state_vector_subset_for_reduced-order_modeling), accepted in the Proceedings of the Combustion Institute journal!
-
-► Check out my seminar talk [*Cost function for low-dimensional manifold topology optimization*](https://www.vki.ac.be/index.php/vki-seminars) at The von Karman Institute for Fluid Dynamics!
 
 ------
 
