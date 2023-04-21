@@ -14,9 +14,11 @@
   <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 
+📄 [Download my CV](https://github.com/kamilazdybal/kamilazdybal.github.io/raw/main/CV-kamila-zdybal.pdf)
+
 ## `print('Howdy, Universe!')`
 
-Hi, I'm Kamila and I'm currently a PhD student at Université libre de Bruxelles. In my research I work on reduced-order modeling of turbulent reactive flows. My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
+Hi, I'm Kamila and I'm currently a graduate researcher at Université libre de Bruxelles and I just completed my Ph.D. at Université libre de Bruxelles! I was supervised by Professor Alessandro Parente and co-supervised by Professor James C. Sutherland. Previously, I was a research student at The von Karman Institute for Fluid Dynamics supervised by Professor Miguel A. Mendez. In my research I work on reduced-order modeling of turbulent reactive flows. My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
 
 If you would like to join any of my ongoing projects, send me a suggestion for improvements or a comment, drop me a line at: `kamilazdybal at gmail dot com`.
 
@@ -33,6 +35,8 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 ► Check out our [**Pinguino Lecture Series**](http://boccelliengineering.altervista.org/PLS_website/index.html) - a yearly, multidisciplinary symposium where we share our knowledge and research with anyone in the audience! *The date and place for the 4th lecture series will be scheduled soon!*
 
 ## News:
+
+► My Ph.D. dissertation is freely available here: [*Reduced-order modeling of turbulent reacting flows using data-driven approaches*](https://www.researchgate.net/publication/370097058_Reduced-order_modeling_of_turbulent_reacting_flows_using_data-driven_approaches)!
 
 ► Check out our latest paper [*Local manifold learning and its link to domain-based physics knowledge*](https://doi.org/10.1016/j.jaecs.2023.100131)!
 
