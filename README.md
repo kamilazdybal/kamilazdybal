@@ -1,5 +1,5 @@
 <a href="https://github.com/kamilazdybal/kamilazdybal.github.io/raw/main/CV-kamila-zdybal.pdf">
-  <img src="https://img.shields.io/badge/download_my_CV-gainsboro?style=for-the-badge&logo=latex&logoColor=black" alt="CV" style="width:180px; border:0px" height=40/>
+  <img src="https://img.shields.io/badge/download_my_CV-gainsboro?style=for-the-badge&logo=latex&logoColor=black" alt="CV"/>
 </a>
 <a href="https://www.linkedin.com/in/kamila-zdybal/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
 <a href="https://www.youtube.com/channel/UCv_HIIdhPlJKdew31vXgt4g">
-  <img src="https://img.shields.io/badge/youtube-firebrick?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" style="width:125px; border:0px" height=40/>
+  <img src="https://img.shields.io/badge/youtube-firebrick?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
 </a>
 
 ## `print('Howdy, Universe!')`
