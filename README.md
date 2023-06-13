@@ -1,3 +1,6 @@
+<a href="https://github.com/kamilazdybal/kamilazdybal.github.io/raw/main/CV-kamila-zdybal.pdf">
+  <img src="https://img.shields.io/badge/download_my_CV-gainsboro?style=for-the-badge&logo=latex&logoColor=black" alt="CV" style="width:180px; border:0px" height=40/>
+</a>
 <a href="https://www.linkedin.com/in/kamila-zdybal/">
   <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </a>  
@@ -13,12 +16,13 @@
 <a href="https://twitter.com/kamilazdybal">
   <img src="https://img.shields.io/badge/Twitter-dodgerblue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
 </a>
+<a href="https://www.youtube.com/channel/UCv_HIIdhPlJKdew31vXgt4g">
+  <img src="https://img.shields.io/badge/youtube-firebrick?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge" style="width:125px; border:0px" height=40/>
+</a>
 
 ## `print('Howdy, Universe!')`
 
 Hi, I'm Kamila, I'm currently a graduate researcher at Université libre de Bruxelles. I just completed my Ph.D. at Université libre de Bruxelles, supervised by Professor Alessandro Parente and co-supervised by Professor James C. Sutherland. Previously, I was a research student at The von Karman Institute for Fluid Dynamics supervised by Professor Miguel A. Mendez. In my research I work on reduced-order modeling of turbulent reactive flows. My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
-
-📄 [Download my CV](https://github.com/kamilazdybal/kamilazdybal.github.io/raw/main/CV-kamila-zdybal.pdf)
 
 If you would like to join any of my ongoing projects, send me a suggestion for improvements or a comment, drop me a line at: `kamilazdybal at gmail dot com`.
 
