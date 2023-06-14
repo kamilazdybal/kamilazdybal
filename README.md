@@ -22,7 +22,7 @@
 
 ## `print('Howdy, Universe!')`
 
-Hi, I'm Kamila, I'm currently a graduate researcher at Université libre de Bruxelles. I just completed my Ph.D. at Université libre de Bruxelles, supervised by Professor Alessandro Parente and co-supervised by Professor James C. Sutherland. Previously, I was a research student at The von Karman Institute for Fluid Dynamics supervised by Professor Miguel A. Mendez. In my research I work on reduced-order modeling of turbulent reactive flows. My research is supported by the F.R.S.-FNRS Aspirant Research Fellow grant.
+Hi, I'm Kamila. In my research, I develop tools and algorithms to help understand high-dimensional datasets and model high-dimensional systems with computational efficiency.
 
 If you would like to join any of my ongoing projects, send me a suggestion for improvements or a comment, drop me a line at: `kamilazdybal at gmail dot com`.
 
@@ -39,6 +39,8 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 ► Check out our [**Pinguino Lecture Series**](http://boccelliengineering.altervista.org/PLS_website/index.html) - a yearly, multidisciplinary symposium where we share our knowledge and research with anyone in the audience! *The date and place for the 4th lecture series will be scheduled soon!*
 
 ## News:
+
+► Stay tuned for the release of **PCAfold 2.0**!
 
 ► My Ph.D. dissertation is freely available here: [*Reduced-order modeling of turbulent reacting flows using data-driven approaches*](https://www.researchgate.net/publication/370097058_Reduced-order_modeling_of_turbulent_reacting_flows_using_data-driven_approaches)!
 
