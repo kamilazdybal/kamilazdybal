@@ -28,7 +28,7 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## Ongoing projects:
 
-► I contribute to developing [**PCAfold**](https://pcafold.readthedocs.io/), an open-source Python library for generating, analyzing and improving low-dimensional manifolds obtained *via* Principal Component Analysis. Check out our [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! 
+► I contribute to developing [**PCAfold**](https://pcafold.readthedocs.io/), an open-source Python library for generating, analyzing and improving low-dimensional manifolds. Check out our [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! 
 
 ► I develop [**multipy**](https://multipy-lib.readthedocs.io/), an educational Python library intended to support your learning of multicomponent mass transfer!
 
