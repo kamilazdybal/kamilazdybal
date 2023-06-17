@@ -28,7 +28,7 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 
 ## Ongoing projects:
 
-► I create YouTube tutorials called [*Python for Academics*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KEuRQfwFeI_RH3EZr87nslf) where I teach how to automate our academic life!
+► I create YouTube tutorials called [*Python for Academics*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KEuRQfwFeI_RH3EZr87nslf) where I teach how to automate our daily academic life!
 
 ► I contribute to developing [**PCAfold**](https://pcafold.readthedocs.io/), an open-source Python library for generating, analyzing and improving low-dimensional manifolds. Check out our [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! 
 
