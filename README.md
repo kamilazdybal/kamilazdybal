@@ -29,12 +29,11 @@ If you would like to join any of my ongoing projects, send me a suggestion for i
 ## Ongoing projects:
 
 ► I create YouTube tutorials called [*Python for Academics*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KEuRQfwFeI_RH3EZr87nslf) where I teach how to automate our daily academic life!
+Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-academics) for a bunch of Jupyter notebooks and Python scripts helpful in your PhD adventure!
 
 ► I contribute to developing [**PCAfold**](https://pcafold.readthedocs.io/), an open-source Python library for generating, analyzing and improving low-dimensional manifolds. Check out our [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! 
 
 ► I develop [**multipy**](https://multipy-lib.readthedocs.io/), an educational Python library intended to support your learning of multicomponent mass transfer!
-
-► Check out the [🎓 **PyhD repository**](https://github.com/kamilazdybal/PyhD) for a bunch of Python scripts helpful in your PhD adventure!
 
 ► I develop [**Science Docs**](https://kamilazdybal.github.io) - a site with science tutorials and articles, study notes and coding projects for curious minds!
 
