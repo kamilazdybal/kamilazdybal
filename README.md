@@ -41,7 +41,7 @@ Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-
 
 ## News:
 
-► Stay tuned for the release of **PCAfold 2.0**!
+► Introducing [**PCAfold 2.0**](https://authors.elsevier.com/sd/article/S2352711023001437)! Check out the [tutorial videos](https://www.youtube.com/playlist?list=PL7gWbAt3_3KFYchpPZKv2xJHD8q1Wjr-i) on **PCAfold**!
 
 ► My Ph.D. dissertation is freely available here: [*Reduced-order modeling of turbulent reacting flows using data-driven approaches*](https://www.researchgate.net/publication/370097058_Reduced-order_modeling_of_turbulent_reacting_flows_using_data-driven_approaches)!
 
