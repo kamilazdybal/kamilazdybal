@@ -41,6 +41,8 @@ Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-
 
 ## News:
 
+► My Ph.D. thesis has been selected as one of the top five contributions at the [ERCOFTAC da Vinci Competition](https://www.ercoftac.org/about/ercoftac-da-vinci-competition/18th-da-vinci-2023/)!
+
 ► Stay tuned for our new paper [*Improving reduced-order models through nonlinear decoding of projection-dependent outputs*](https://github.com/kamilazdybal/nonlinear-decoding) about to appear in the journal Patterns!
 
 ► Introducing [**PCAfold 2.0**](https://authors.elsevier.com/sd/article/S2352711023001437)! Check out the [tutorial videos](https://www.youtube.com/playlist?list=PL7gWbAt3_3KFYchpPZKv2xJHD8q1Wjr-i) on **PCAfold**!
