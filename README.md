@@ -26,20 +26,18 @@ I'm a postdoctoral researcher at Université Libre de Bruxelles. I develop tools
 
 ## Ongoing projects:
 
-► I create YouTube tutorials called [*Python for Academics*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KEuRQfwFeI_RH3EZr87nslf) where I teach how to automate your daily academic life!
+► I create YouTube tutorials called [*Python for Academics*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KEuRQfwFeI_RH3EZr87nslf) where I teach how to automate your daily academic life.
 Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-academics) for a bunch of Jupyter notebooks and Python scripts helpful in your academic adventure!
 
-► I contribute to developing [**PCAfold**](https://pcafold.readthedocs.io/), an open-source Python library for generating, analyzing and improving low-dimensional manifolds. Check out our [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)!
+► I contribute to developing [**PCAfold**](https://pcafold.readthedocs.io/), an open-source Python library for generating, analyzing and improving low-dimensional manifolds. Check out our [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435) and check out the [tutorial videos](https://www.youtube.com/playlist?list=PL7gWbAt3_3KFYchpPZKv2xJHD8q1Wjr-i) on **PCAfold**.
 
-► I develop [**multipy**](https://multipy-lib.readthedocs.io/), an educational Python library intended to support your learning of multicomponent mass transfer!
+► I develop [**multipy**](https://multipy-lib.readthedocs.io/), an educational Python library intended to support your learning of multicomponent mass transfer.
 
 ## News:
 
-► My Ph.D. thesis has been selected as one of the top five contributions at the [ERCOFTAC da Vinci Competition](https://www.ercoftac.org/about/ercoftac-da-vinci-competition/18th-da-vinci-2023/)! My Ph.D. dissertation is freely available here: [*Reduced-order modeling of turbulent reacting flows using data-driven approaches*](https://www.researchgate.net/publication/370097058_Reduced-order_modeling_of_turbulent_reacting_flows_using_data-driven_approaches)!
+► My Ph.D. thesis has been selected as one of the top five contributions at the [ERCOFTAC da Vinci Competition](https://www.ercoftac.org/about/ercoftac-da-vinci-competition/18th-da-vinci-2023/)! My Ph.D. dissertation is freely available here: [*Reduced-order modeling of turbulent reacting flows using data-driven approaches*](https://www.researchgate.net/publication/370097058_Reduced-order_modeling_of_turbulent_reacting_flows_using_data-driven_approaches).
 
-► Stay tuned for our new paper [*Improving reduced-order models through nonlinear decoding of projection-dependent outputs*](https://github.com/kamilazdybal/nonlinear-decoding) about to appear in the journal Patterns!
-
-► Introducing [**PCAfold 2.0**](https://authors.elsevier.com/sd/article/S2352711023001437)! Check out the [tutorial videos](https://www.youtube.com/playlist?list=PL7gWbAt3_3KFYchpPZKv2xJHD8q1Wjr-i) on **PCAfold**!
+► Stay tuned for our new paper [*Improving reduced-order models through nonlinear decoding of projection-dependent outputs*](https://github.com/kamilazdybal/nonlinear-decoding) about to appear in the journal Patterns.
 
 ------
 
