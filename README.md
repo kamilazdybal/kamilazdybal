@@ -22,14 +22,14 @@
 
 ## `print('Howdy, Universe!')`
 
-Hi, I'm Kamila, I'm a postdoctoral researcher at Université Libre de Bruxelles. In my research, I develop tools and algorithms to help understand high-dimensional datasets and model high-dimensional systems with computational efficiency.
+I'm a postdoctoral researcher at Université Libre de Bruxelles. I develop tools and algorithms to help understand high-dimensional datasets and model high-dimensional systems with computational efficiency.
 
 ## Ongoing projects:
 
-► I create YouTube tutorials called [*Python for Academics*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KEuRQfwFeI_RH3EZr87nslf) where I teach how to automate our daily academic life!
-Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-academics) for a bunch of Jupyter notebooks and Python scripts helpful in your PhD adventure!
+► I create YouTube tutorials called [*Python for Academics*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KEuRQfwFeI_RH3EZr87nslf) where I teach how to automate your daily academic life!
+Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-academics) for a bunch of Jupyter notebooks and Python scripts helpful in your academic adventure!
 
-► I contribute to developing [**PCAfold**](https://pcafold.readthedocs.io/), an open-source Python library for generating, analyzing and improving low-dimensional manifolds. Check out our [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! 
+► I contribute to developing [**PCAfold**](https://pcafold.readthedocs.io/), an open-source Python library for generating, analyzing and improving low-dimensional manifolds. Check out our [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)!
 
 ► I develop [**multipy**](https://multipy-lib.readthedocs.io/), an educational Python library intended to support your learning of multicomponent mass transfer!
 
