@@ -22,7 +22,7 @@
 
 ## `print('Howdy, Universe!')`
 
-Hi, I'm Kamila. In my research, I develop tools and algorithms to help understand high-dimensional datasets and model high-dimensional systems with computational efficiency.
+Hi, I'm Kamila, I'm a postdoctoral researcher at Université Libre de Bruxelles. In my research, I develop tools and algorithms to help understand high-dimensional datasets and model high-dimensional systems with computational efficiency.
 
 ## Ongoing projects:
 
@@ -32,10 +32,6 @@ Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-
 ► I contribute to developing [**PCAfold**](https://pcafold.readthedocs.io/), an open-source Python library for generating, analyzing and improving low-dimensional manifolds. Check out our [SoftwareX publication](https://authors.elsevier.com/sd/article/S2352711020303435)! 
 
 ► I develop [**multipy**](https://multipy-lib.readthedocs.io/), an educational Python library intended to support your learning of multicomponent mass transfer!
-
-► I develop [**Science Docs**](https://kamilazdybal.github.io) - a site with science tutorials and articles, study notes and coding projects for curious minds!
-
-► Check out our [**Pinguino Lecture Series**](http://boccelliengineering.altervista.org/PLS_website/index.html) - a yearly, multidisciplinary symposium where we share our knowledge and research with anyone in the audience! *The date and place for the 4th lecture series will be scheduled soon!*
 
 ## News:
 
