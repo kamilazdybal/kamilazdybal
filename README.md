@@ -35,9 +35,9 @@ Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-
 
 ## News:
 
-► Our new paper [*Improving reduced-order models through nonlinear decoding of projection-dependent outputs*](https://doi.org/10.1016/j.patter.2023.100859) is out in the journal **Patterns** from Cell Press!
+► My Ph.D. work has just been awarded the [18th ERCOFTAC da Vinci prize](https://www.ercoftac.org/about/ercoftac-da-vinci-competition/18th-da-vinci-2023/)! My Ph.D. dissertation is freely available here: [*Reduced-order modeling of turbulent reacting flows using data-driven approaches*](https://www.researchgate.net/publication/370097058_Reduced-order_modeling_of_turbulent_reacting_flows_using_data-driven_approaches).
 
-► My Ph.D. thesis has been selected as one of the top five contributions at the [ERCOFTAC da Vinci Competition](https://www.ercoftac.org/about/ercoftac-da-vinci-competition/18th-da-vinci-2023/)! My Ph.D. dissertation is freely available here: [*Reduced-order modeling of turbulent reacting flows using data-driven approaches*](https://www.researchgate.net/publication/370097058_Reduced-order_modeling_of_turbulent_reacting_flows_using_data-driven_approaches).
+► Our new paper [*Improving reduced-order models through nonlinear decoding of projection-dependent outputs*](https://doi.org/10.1016/j.patter.2023.100859) is out in the journal **Patterns** from Cell Press!
 
 ------
 
