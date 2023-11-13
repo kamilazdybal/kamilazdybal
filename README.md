@@ -19,6 +19,9 @@
 <a href="https://www.youtube.com/channel/UCv_HIIdhPlJKdew31vXgt4g">
   <img src="https://img.shields.io/badge/youtube-firebrick?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Badge"/>
 </a>
+<a href="https://kamilazdybal.academia.edu/">
+  <img src="https://img.shields.io/badge/academia.edu-darkgrey?style=for-the-badge&logo=academia&logoColor=black" alt="Academia.edu Badge"/>
+</a>
 
 ## `print('Howdy, Universe!')`
 
