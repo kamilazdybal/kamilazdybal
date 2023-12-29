@@ -27,6 +27,12 @@
 
 I'm a postdoctoral researcher at Université Libre de Bruxelles and an incoming postdoctoral researcher at Empa -- Swiss Federal Laboratories for Materials Science and Technology. I develop tools and algorithms to help understand high-dimensional datasets and model high-dimensional systems with computational efficiency.
 
+If you'd like to support me, you can 
+
+<a href="https://www.buymeacoffee.com/kamilazdybal">
+  <img src="[https://img.shields.io/badge/academia.edu-darkgrey?style=for-the-badge&logo=academia&logoColor=black](https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white)" alt="buymeacoffee Badge"/>
+</a>
+
 ## Ongoing projects:
 
 ► I create YouTube tutorials called [*Python for Academics*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KEuRQfwFeI_RH3EZr87nslf) where I teach how to automate your daily academic life.
