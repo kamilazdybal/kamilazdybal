@@ -30,7 +30,7 @@ I'm a postdoctoral researcher at Université Libre de Bruxelles and an incoming 
 If you'd like to support me, you can 
 
 <a href="https://www.buymeacoffee.com/kamilazdybal">
-  <img src="[https://img.shields.io/badge/academia.edu-darkgrey?style=for-the-badge&logo=academia&logoColor=black](https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white)" alt="buymeacoffee Badge"/>
+  <img src="https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="buymeacoffee Badge"/>
 </a>
 
 ## Ongoing projects:
