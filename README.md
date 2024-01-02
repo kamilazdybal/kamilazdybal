@@ -25,7 +25,7 @@
 
 ## `print('Howdy, Universe!')`
 
-I'm a postdoctoral researcher at Université Libre de Bruxelles and an incoming postdoctoral researcher at Empa -- Swiss Federal Laboratories for Materials Science and Technology. I develop tools and algorithms to help understand high-dimensional datasets and model high-dimensional systems with computational efficiency.
+I'm a postdoctoral researcher at Université Libre de Bruxelles and an incoming postdoctoral researcher at Empa, Swiss Federal Laboratories for Materials Science and Technology. I develop tools and algorithms to help understand high-dimensional datasets and model high-dimensional systems with computational efficiency.
 
 If you'd like to support me, you can 
 
