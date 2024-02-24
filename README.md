@@ -22,16 +22,14 @@
 <a href="https://kamilazdybal.academia.edu/">
   <img src="https://img.shields.io/badge/academia.edu-darkgrey?style=for-the-badge&logo=academia&logoColor=black" alt="Academia.edu Badge"/>
 </a>
+<a href="https://www.buymeacoffee.com/kamilazdybal">
+  <img src="https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="buymeacoffee Badge"/>
+</a>
 
 ## `print('Howdy, Universe!')`
 
 I'm a postdoctoral researcher in the Computational Engineering lab at Empa 🇨🇭. In my research, I combine machine learning and data-driven modeling with fluid dynamics. I develop tools and algorithms that help understand high-dimensional datasets and model high-dimensional systems with computational efficiency.
 
-If you'd like to support me, you can:
-
-<a href="https://www.buymeacoffee.com/kamilazdybal">
-  <img src="https://img.shields.io/badge/buy_me_a_coffee-yellow?style=for-the-badge&logo=buymeacoffee&logoColor=white" alt="buymeacoffee Badge"/>
-</a>
 
 ## Ongoing projects:
 
