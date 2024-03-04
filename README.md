@@ -42,7 +42,7 @@ Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-
 
 ## News:
 
-► Check out the recent [interview with me](https://www.ercoftac.org/about/ercoftac-da-vinci-competition/18th-da-vinci-2023/)!
+► Check out the recent [interview with me](https://www.ercoftac.org/about/ercoftac-da-vinci-competition/18th-da-vinci-2023/kamila-zdybal/)!
 
 ► My Ph.D. work has just been awarded the [18th ERCOFTAC da Vinci prize](https://www.ercoftac.org/about/ercoftac-da-vinci-competition/18th-da-vinci-2023/)! My Ph.D. dissertation is freely available here: [*Reduced-order modeling of turbulent reacting flows using data-driven approaches*](https://www.researchgate.net/publication/370097058_Reduced-order_modeling_of_turbulent_reacting_flows_using_data-driven_approaches).
 
