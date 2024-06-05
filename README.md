@@ -30,7 +30,7 @@
 
 I'm a postdoctoral researcher in the Computational Engineering lab at Empa 🇨🇭. In my research, I combine machine learning and data-driven modeling with fluid dynamics. I develop tools and algorithms that help understand high-dimensional datasets and model high-dimensional systems with computational efficiency.
 
-**Would you like to support my efforts in creating open-source science and education?** You can now make a small donation on [buymeacoffee.com/kamilazdybal](https://buymeacoffee.com/kamilazdybal) or become a member for €3/month. As a supporter, you gain access to extra materials on being a researcher, making effective graphics, academic writing, life-long learning, and the like! Many thanks for your support! 🚀
+**Would you like to support my efforts in creating open-source science and education?** You can now make buy me a 🥐 on [buymeacoffee.com/kamilazdybal](https://buymeacoffee.com/kamilazdybal). As a supporter, you gain access to extra materials on being a researcher, making effective graphics, academic writing, life-long learning, and the like! Many thanks for your support! 🚀
 
 ## Ongoing projects:
 
