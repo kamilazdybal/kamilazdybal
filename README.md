@@ -28,6 +28,10 @@ I'm a postdoctoral researcher in the Computational Engineering lab at Empa 🇨�
 
 ## Ongoing projects:
 
+► Check out my series [*Reinforcement Learning 101 (with Numpy!)*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KFBWhT2Dm7Y8OxXlTKmYgHG)
+
+![Screenshot](https://github.com/kamilazdybal/teaching-ml/blob/main/reinforcement-learning-101/thumbnails.png)
+
 ► I create YouTube tutorials called [*Python for Academics*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KEuRQfwFeI_RH3EZr87nslf) where I teach how to automate your daily academic life.
 Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-academics) for a bunch of Jupyter notebooks and Python scripts helpful in your academic adventure!
 
