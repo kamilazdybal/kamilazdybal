@@ -28,6 +28,8 @@ I'm a postdoctoral researcher in the Computational Engineering lab at Empa 🇨�
 
 ## Ongoing projects:
 
+► I am developing [**pykitPIV**](https://pykitpiv.readthedocs.io/), an open-source Python library that provides rich and reproducible virtual environments for training machine learning (ML) algorithms in velocimetry.
+
 ► Check out my series [*Reinforcement Learning 101 (with Numpy!)*](https://www.youtube.com/playlist?list=PL7gWbAt3_3KFBWhT2Dm7Y8OxXlTKmYgHG)
 
 ![Screenshot](https://github.com/kamilazdybal/teaching-ml/blob/main/reinforcement-learning-101/thumbnails.png)
