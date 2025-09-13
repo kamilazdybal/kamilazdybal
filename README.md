@@ -45,6 +45,8 @@ Check out [🎓 **this repository**](https://github.com/kamilazdybal/python-for-
 
 ## News:
 
+► Our new paper [*pykitPIV: A framework for flexible and reproducible virtual training of machine learning models in optical velocimetry*](https://www.sciencedirect.com/science/article/pii/S235271102500322X) is out in the journal **SoftwareX**!
+
 ► Our new paper [*Optimizing progress variables for ammonia/hydrogen combustion using encoding–decoding networks*](https://doi.org/10.1016/j.combustflame.2025.114152) is out in the journal **Combustion and Flame**!
 
 ► Check out the recent [interview with me](https://www.ercoftac.org/about/ercoftac-da-vinci-competition/18th-da-vinci-2023/kamila-zdybal/)!
